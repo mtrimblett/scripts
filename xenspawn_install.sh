@@ -1,1 +1,1 @@
-sudo ./opt/XenSpawn/spawn.sh $(hostname)
+sudo /opt/XenSpawn/spawn.sh $(hostname)
